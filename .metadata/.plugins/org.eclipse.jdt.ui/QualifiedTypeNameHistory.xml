@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.recovery.ResilientSyslogOutputStream"/>
+    <fullyQualifiedTypeName name="com.ashokit.service.WelcomeService"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="com.ashokit.bindings.Book"/>
+    <fullyQualifiedTypeName name="com.ashokit.rest.WelcomeRestController"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.ashokit.service.BookService"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.ResultActions"/>
+    <fullyQualifiedTypeName name="org.springframework.mock.web.MockHttpServletResponse"/>
+    <fullyQualifiedTypeName name="org.mockito.ArgumentMatcher"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+</qualifiedTypeNameHistroy>
